@@ -1,8 +1,33 @@
-cout<<"Ahsan Khan";
-cout<<"07";
-/////1st semester subjects/////
-applied physics
-applied mathematics
-programming 
-IT Skills
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Ahsan Khan" << endl;
+    cout << "07" << endl;
+
+    //// FSC Subjects ///
+    cout << "Physucs" << endl;
+    cout << "Mathematics" << endl;
+    cout << "Chemistry" << endl;
+    cout << "Urdu" << endl;
+    cout << "English" << endl;
+    cout << "Pak Studies" << endl;
+
+    //// 1st Semester subjects ////
+    cout << "applied physics" << endl;
+    cout << "applied mathematics" << endl;
+    cout << "programming" << endl;
+    cout << "IT Skills" << endl;
+
+    //// 2nd Semester subjects ////
+    cout << "1. Software configuration" << endl;
+    cout << "2. SDLC" << endl;
+    cout << "3. Constitution of Pakistan" << endl;
+    cout << "4. Object oriented Programming" << endl;
+    cout << "5. Discrete Structure" << endl;
+
+    return 0;
+}
+
+
 
